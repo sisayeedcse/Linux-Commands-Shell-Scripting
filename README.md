@@ -34,7 +34,7 @@ To get started with the course materials, follow these steps:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/linux-commands-shell-scripting.git
+   git clone https://github.com/sisayeedcse/linux-commands-shell-scripting.git
    ```
 
 2. Navigate to the repository folder:
