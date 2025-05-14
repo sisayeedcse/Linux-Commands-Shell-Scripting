@@ -14,6 +14,7 @@ create_directory(){
 }
 if ! create_directory;then
 	echo"This directory is already created! Please rename"
+ 	exit 1
 fi
 
 echo "Directory created named: $dname"
