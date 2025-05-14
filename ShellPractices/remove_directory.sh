@@ -16,6 +16,7 @@ remove_directory(){
 
 if ! remove_directory;then
 	echo "There is no directory named $dname"
+ 	exit 1
 fi
 
 echo "Directory $dname removed"
