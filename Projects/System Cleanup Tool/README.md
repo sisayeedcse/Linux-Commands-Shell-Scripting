@@ -17,15 +17,6 @@ A simple Bash script to automate system cleanup tasks like clearing temporary fi
 
 ---
 
-## 📂 Folder Structure
-system-cleanup-script/
-├── cleanup.sh # Main script
-├── cleanup_logs/ # Automatically generated logs
-├── README.md # Project documentation
-└── .gitignore # (optional) to ignore logs
-
----
-
 ## 🚀 How to Use
 
 1. Clone this repository or download the script.
