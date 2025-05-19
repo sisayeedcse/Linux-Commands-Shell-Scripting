@@ -19,7 +19,7 @@ A simple and interactive shell script to back up any directory to a destination 
 1. Clone this repository or download the script:
 
    ```bash
-   git clone https://github.com/yourusername/automated-backup-tool.git
+   git clone https://github.com/sisayeedcse/automated-backup-tool.git
    cd automated-backup-tool
 Make the script executable:
 chmod +x backup.sh
